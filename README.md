@@ -3,6 +3,9 @@
 A precision-engineered tool designed to improve drilling accuracy, repeatability, and flexibility.  
 Built to replace makeshift jigs and reduce alignment errors in prototyping and mechanical design work.
 
+![image alt](https://github.com/Tofarati262/Adjustable-Drill-Guide/blob/main/Asset/ADJUSTABLE%20DRILL%20GUIDE%20ASSEMBLY.png)
+
+
 ---
 
 ## 🔧 Problem
